@@ -9,7 +9,12 @@
 
   District Summary Affected.
   
+  
+  
+  
   <img width="649" alt="District Summary - Before" src="https://user-images.githubusercontent.com/86161480/131202543-a1cf5dbc-4e49-464a-ab2c-63065dbb7912.PNG">
+  
+  
   
   
   
@@ -94,7 +99,7 @@ iv) Scores by School Type.
 Summary,
 
 The following changes happened to the REsults,
-i) Average math score - 83.35
+i) Average math score = 83.35
 ii) Average Reading Score = 83.89
 iii) % Passing Math = 93.18.
 iV) % Passing Reading = 97.01.
